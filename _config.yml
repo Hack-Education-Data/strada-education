@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-dinky
+
+integration_spreadsheet_key: 1jbtrbnSqhikilt3dAgvfUduzXhovzxc8BB53_uEuSgY
+
+github_user: hack-education-data
+github_repo: strada-education
